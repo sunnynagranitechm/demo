@@ -3,3 +3,4 @@ causing conflict branch
 
 conflict branch
 
+modified file
